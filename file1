@@ -6,4 +6,10 @@ This is an update to update after 3rd successfull git learning.
 I was not waiting for initializing and this was failing so now it is working as expected
 good learning
 This is an update from Sin-git
+Awesome! 27th Aug testing is completed. doing good. need to remember below codes.
+
+git remote add origin master [URL]
+git pull origin master
+ls
+check for file and edit and this is that edit for 27th of Aug 2026. I'm doing good so far! 
 
