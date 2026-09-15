@@ -1,1 +1,17 @@
-this si 
+Certification 
+Steps used for Git
+1) Created a VM
+2) Opened the linux browers thru VM
+3) Created a git folder and created a config with git config --global user.name "name" and git config --global user.email"email id"
+4) git init to Initiallzing the Git
+5) created a file using either Vi or Nanao
+6) added instrucitons for GIT
+7) this Git add <file name> it moved to staging
+9) checked the status - Git status
+10) git commit -m "added a message"
+11) git push orging master --to my git hub
+12) give my login id
+13) added password by getting it from setting-> Developer setting -> personal access tokens --> token classic
+14) now the file is in my github
+
+ 
